@@ -8,7 +8,7 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "plss mau dong,kali ini aja",
+        text: "plss mau dong",
         image: "https://i.pinimg.com/736x/93/77/9f/93779f1b865ec6638cbdd97434b9b168.jpg"
     },
     {
