@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "YEE!! Makasih Kirana sekarang kamu officially my girlfriend!!";
+    title.innerHTML = "YEE!! Makasih Kirana sekarang you're officially my girlfriend!!";
     document.querySelector('img').src = "https://media.tenor.com/HD0NF0Y_CuwAAAAM/love-you.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
