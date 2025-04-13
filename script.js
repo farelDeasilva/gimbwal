@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "plss mau dong",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        image: "https://i.pinimg.com/736x/93/77/9f/93779f1b865ec6638cbdd97434b9b168.jpg"
     },
     {
         text: "pls klik yg kiri",
@@ -17,7 +17,7 @@ const messages = [
     },
     {
         text: "terakhir, kalo \"no\" yauda deh",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        image: "https://i.pinimg.com/736x/69/bf/28/69bf283fbfa7a8e25344698a3ebb85b8.jpg"
     }
 ];
 
@@ -121,8 +121,8 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you would say vqsghvwegdsbjs";
-    document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
+    title.innerHTML = "HORE!! Makasih Kiran sekarang you're officially my girlfriend!!";
+    document.querySelector('img').src = "https://media.tenor.com/HD0NF0Y_CuwAAAAM/love-you.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
