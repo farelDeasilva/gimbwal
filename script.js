@@ -8,15 +8,15 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "plss mau dong",
+        text: "plss mau dong,kali ini aja",
         image: "https://i.pinimg.com/736x/93/77/9f/93779f1b865ec6638cbdd97434b9b168.jpg"
     },
     {
-        text: "pls klik yg kiri",
+        text: "klik yg kiri dong kir plss",
         image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
-        text: "terakhir, kalo \"no\" yauda deh",
+        text: "terakhir nih kir, kalo \"no\" yauda deh nyerah aku",
         image: "https://i.pinimg.com/736x/69/bf/28/69bf283fbfa7a8e25344698a3ebb85b8.jpg"
     }
 ];
@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! Makasih Kiran sekarang you're officially my girlfriend!!";
+    title.innerHTML = "YEE!! Makasih Kirana sekarang kamu officially my girlfriend!!";
     document.querySelector('img').src = "https://media.tenor.com/HD0NF0Y_CuwAAAAM/love-you.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
