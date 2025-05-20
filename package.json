@@ -1,7 +1,7 @@
 {
   "name": "girlfriend-proposal",
   "version": "1.0.0",
-  "description": "Buat Kirana Proposal Website",
+  "description": "Buat Bunga Proposal Website",
   "main": "index.html",
   "scripts": {
     "start": "serve .",
